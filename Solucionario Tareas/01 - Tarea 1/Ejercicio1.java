@@ -15,8 +15,9 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub
 		int matriz[] = new int[10];
 		
-		//a. Posicion cero = Numero aleatorio entre 1 y 10
-			matriz[0] = (int) (Math.random() * 10) + 1; //0,5 ptos
+		//a. Posicion cero = Numero aleatorio entre 3 y 17
+			Random aleatorio1 = new Random();
+			matriz[0] = aleatorio1.nextInt(3, 18)
 			
 		//b. Posicion uno = Posición cero + 20
 			matriz[1] = matriz[0] + 20;   //0,5 ptos
