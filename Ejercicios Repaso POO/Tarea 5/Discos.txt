@@ -1,0 +1,4 @@
+QW34,Abbey Road,250,The Beatles,0,0,0
+MN80,Pet Sounds,390,The Beach Boys,0,0,0
+ZX45,London Calling,310,The Clash,0,0,0
+AP01,Thriller,459,Michael Jackson,0,0,0

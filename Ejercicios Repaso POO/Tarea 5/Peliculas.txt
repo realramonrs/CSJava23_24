@@ -1,0 +1,4 @@
+TY56,Parque Jurásico,125,Steven Spielberg,Ciencia-Ficción000,0,0
+QW90,Regreso al Futuro,110,Robert Zemeckis,Ciencia-Ficción000,0,0
+GT56,El Padrino,175,Francis Ford Coppola,Drama/Mafia000,0,0
+WP09,Testigo de cargo,114,Billy Wilder,Drama000,0,0
